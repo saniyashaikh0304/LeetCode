@@ -37,6 +37,7 @@ LeetCode Problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/saniyashaikh0304/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saniyashaikh0304/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/saniyashaikh0304/LeetCode/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
