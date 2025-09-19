@@ -8,6 +8,7 @@ LeetCode Problems
 | ------- |
 | [0001-two-sum](https://github.com/saniyashaikh0304/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saniyashaikh0304/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/saniyashaikh0304/LeetCode/tree/master/0066-plus-one) |
 | [1603-running-sum-of-1d-array](https://github.com/saniyashaikh0304/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -23,6 +24,7 @@ LeetCode Problems
 | ------- |
 | [0009-palindrome-number](https://github.com/saniyashaikh0304/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saniyashaikh0304/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/saniyashaikh0304/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/saniyashaikh0304/LeetCode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
