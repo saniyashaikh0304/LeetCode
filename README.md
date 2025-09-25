@@ -9,6 +9,7 @@ LeetCode Problems
 | [0001-two-sum](https://github.com/saniyashaikh0304/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saniyashaikh0304/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/saniyashaikh0304/LeetCode/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/saniyashaikh0304/LeetCode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/saniyashaikh0304/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -51,4 +52,8 @@ LeetCode Problems
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/saniyashaikh0304/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/saniyashaikh0304/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
