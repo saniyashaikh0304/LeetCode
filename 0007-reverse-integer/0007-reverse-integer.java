@@ -14,7 +14,7 @@ class Solution {
 		try {
 			output = Integer.valueOf(rem);			
 			return output;
-		} catch (Exception e) {
+		} catch (NumberFormatException e) {
 			return 0;
 		}
     }
